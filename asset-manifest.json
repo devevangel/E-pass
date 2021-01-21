@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/E-pass/static/css/main.9d19a769.chunk.css",
+    "main.js": "/E-pass/static/js/main.b21939b0.chunk.js",
+    "main.js.map": "/E-pass/static/js/main.b21939b0.chunk.js.map",
+    "runtime-main.js": "/E-pass/static/js/runtime-main.c2770a01.js",
+    "runtime-main.js.map": "/E-pass/static/js/runtime-main.c2770a01.js.map",
+    "static/css/2.a1596f27.chunk.css": "/E-pass/static/css/2.a1596f27.chunk.css",
+    "static/js/2.1b16c528.chunk.js": "/E-pass/static/js/2.1b16c528.chunk.js",
+    "static/js/2.1b16c528.chunk.js.map": "/E-pass/static/js/2.1b16c528.chunk.js.map",
+    "index.html": "/E-pass/index.html",
+    "static/css/2.a1596f27.chunk.css.map": "/E-pass/static/css/2.a1596f27.chunk.css.map",
+    "static/css/main.9d19a769.chunk.css.map": "/E-pass/static/css/main.9d19a769.chunk.css.map",
+    "static/js/2.1b16c528.chunk.js.LICENSE.txt": "/E-pass/static/js/2.1b16c528.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/E-pass/static/media/MTNBrighterSans-RegularItalic.b6e6b6af.otf",
+    "static/media/background3.f41abd1d.jpg": "/E-pass/static/media/background3.f41abd1d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2770a01.js",
+    "static/css/2.a1596f27.chunk.css",
+    "static/js/2.1b16c528.chunk.js",
+    "static/css/main.9d19a769.chunk.css",
+    "static/js/main.b21939b0.chunk.js"
+  ]
+}
